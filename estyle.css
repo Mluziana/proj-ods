@@ -106,6 +106,14 @@ li{
     padding: 15px;
     color: #c95325;
     border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  .msg-final{
+     padding: 10px;
+     color: #c95325;
+     text-align: justify;
+
+
   }
 
 .rodape{
